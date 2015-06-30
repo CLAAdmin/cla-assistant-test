@@ -1,2 +1,2 @@
 # cla-assistant-test
-Test for CLA-assistent
+Test for CLA-assistent.
